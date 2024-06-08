@@ -1,22 +1,12 @@
-Welcome to Lumache's documentation!
+Kuwin - Nền tảng Cá Cược Đáng Tin Cậy, Phong Phú và Lôi Cuốn - Tham Gia Ngay, Nhận 177K!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Kuwin <https://kuwin.tours/>`_ là lựa chọn tin cậy dành cho những ai đam mê cá cược trực tuyến. Cam kết cung cấp trải nghiệm vượt trội và một môi trường giải trí an toàn, chúng tôi luôn ưu tiên hàng đầu về chất lượng.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Website: https://kuwin.tours/
 
-.. note::
+Phone: 1800 1217
 
-   This project is under active development.
+Địa chỉ: 208B Lý Chính Thắng, Phường 9, Quận 3, Thành phố Hồ Chí Minh, Việt Nam
 
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+Hastag: #kuwin #nhacaikuwin #trangchukuwin #kuwintours
